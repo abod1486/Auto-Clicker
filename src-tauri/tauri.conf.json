@@ -39,10 +39,10 @@
     "windows": [
       {
         "fullscreen": false,
-        "resizable": true,
+        "resizable": false,
         "title": "auto-clicker",
-        "width": 800,
-        "height": 600
+        "width": 355,
+        "height": 60
       }
     ]
   }
